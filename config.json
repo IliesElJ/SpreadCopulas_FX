@@ -1,0 +1,13 @@
+{
+    "algorithm-language": "Python",
+    "parameters": {
+        "RR_RATIO": "0.25",
+        "FVG_POINT": "1",
+        "SL_LEVEL": "1"
+    },
+    "description": "On note tous les \u00e9v\u00e9nements (OB, FVG , SL, SH, ...)",
+    "cloud-id": 14843811,
+    "organization-id": "f2a9588fd8c4c0d87cbe08b58543c8de",
+    "python-venv": 1,
+    "local-id": 950913541
+}
